@@ -1,0 +1,21 @@
+{
+  "name": "obsidian-ghpages-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "obsidianhtml convert -i config.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacegiant/obsidian-github-pages-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spacegiant/obsidian-github-pages-starter.git/issues"
+  },
+  "homepage": "https://github.com/spacegiant/obsidian-github-pages-starter.git#readme"
+}
