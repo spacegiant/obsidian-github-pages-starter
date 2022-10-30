@@ -113,4 +113,6 @@ or
 subdomain.mywebsite.com
 ```
 
+3. IMPORTANT NOTE: The CNAME file needs to be copied in to the `docs` folder. TODO: Add auto copy when commit or something.s
+
 [Back to Steps](#installation-steps-summary)
